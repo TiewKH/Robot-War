@@ -1,6 +1,4 @@
-//Prepared by Abdul Muiz, Lim Yue Hng and Tiew Kee Hui
-//Muiz and Lim worked on the game logic
-//Tiew worked on putting the game logic in the Timer and communicating with the GameBoard (updating the board, save, load, new game)
+//Tiew worked on the game logic and on putting the game logic in the Timer and communicating with the GameBoard (updating the board, save, load, new game)
 //Uses Iterator Design Pattern - private class StartListener implements ActionListener
 //Uses Iterator Design Pattern - private class LoadListener implements ActionListener
 
